@@ -9,6 +9,7 @@ import board
 import digitalio
 
 """Blue--- CANDLE_COLOR = (0x00, 0xC0, 0xFF)"""
+"""Red"""
 CANDLE_COLOR = (0x80, 0x00, 0x00)
 MIN_BRIGHTNESS = 64
 MAX_BRIGHTNESS = 191
